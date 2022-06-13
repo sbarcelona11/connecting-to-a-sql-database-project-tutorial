@@ -11,7 +11,7 @@ INSERT INTO publishers(publisher_id,name) values (7,'Alfred A. Knopf');
 INSERT INTO authors (author_id, first_name, middle_name, last_name) VALUES (1,'Merritt',null,'Eric');
 INSERT INTO authors (author_id, first_name, middle_name, last_name) VALUES (2,'Linda',null,'Mui');
 INSERT INTO authors (author_id, first_name, middle_name, last_name) VALUES (3,'Alecos',null,'Papadatos');
-INSERT INTO authors (author_id, first_name, middle_name, last_name) VALUES (4,'Anthony','Molinaro');
+INSERT INTO authors (author_id, first_name, middle_name, last_name) VALUES (4,'Anthony', null,'Molinaro');
 INSERT INTO authors (author_id, first_name, middle_name, last_name) VALUES (5,'David',null,'Cronin');
 INSERT INTO authors (author_id, first_name, middle_name, last_name) VALUES (6,'Richard',null,'Blum');
 INSERT INTO authors (author_id, first_name, middle_name, last_name) VALUES (7,'Yuval','Noah','Harari');
